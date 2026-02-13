@@ -14,19 +14,12 @@
 
 ---
 
-### 💡 What I'm up to
-- 🎓 4th Yr AIML • AKTU
-- 🤖 Building GenAI/ML projects using Gemini, OpenCV, Python, JavaScript
-- ⚒️ Grinding DSA + System Design
-- ✨ Side quest: Becoming a better engineer every  day
-
----
 
 ###  Tech Stack
 
 | 🧩 Languages   | ☕ Framework / Web | 🤖 ML / GenAI            | 🔧 Tools         |
 |---------------|-------------------|---------------------------|------------------|
-| Python, Java, JS | React,Nextjs | scikit-learn, Gemini, OpenCV | Git/GitHub, Linux |
+| Python | FastAPI | scikit-learn, Gemini, OpenCV | Git/GitHub, Linux |
 
 ---
 
